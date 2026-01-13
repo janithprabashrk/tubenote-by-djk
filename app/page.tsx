@@ -70,7 +70,7 @@ export default function Home() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-black tracking-tight text-transparent bg-clip-text bg-gradient-to-b from-white via-white to-slate-500 drop-shadow-2xl">
-            TubeNote<span className="text-indigo-500">.</span>
+            TubeNote<span className="text-indigo-500">.ByDJK</span>
           </h1>
           
           <p className="text-lg md:text-xl text-slate-400 max-w-2xl mx-auto leading-relaxed">
